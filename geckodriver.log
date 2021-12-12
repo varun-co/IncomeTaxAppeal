@@ -1,0 +1,332 @@
+1637087457341	geckodriver	INFO	Listening on 127.0.0.1:50907
+1637087458345	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileHIWlJL"
+1637087470334	Marionette	INFO	Listening on port 41385
+1637087470369	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 288: NS_ERROR_FAILURE: Should pass a non-null uri
+1637087513595	Marionette	INFO	Stopped listening on port 41385
+1637087550081	geckodriver	INFO	Listening on 127.0.0.1:45249
+1637087550088	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile462n07"
+1637087554717	Marionette	INFO	Listening on port 45111
+1637087554731	Marionette	WARN	TLS certificate errors will be ignored for this session
+1637087571033	Marionette	INFO	Stopped listening on port 45111
+1637087652601	geckodriver	INFO	Listening on 127.0.0.1:59641
+1637087652607	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofiletEMVPJ"
+1637087657407	Marionette	INFO	Listening on port 43455
+1637087657429	Marionette	WARN	TLS certificate errors will be ignored for this session
+1637087673904	Marionette	INFO	Stopped listening on port 43455
+1637087753177	geckodriver	INFO	Listening on 127.0.0.1:48783
+1637087753184	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile41PM9a"
+1637087757226	Marionette	INFO	Listening on port 44351
+1637087757299	Marionette	WARN	TLS certificate errors will be ignored for this session
+1637087780210	geckodriver	INFO	Listening on 127.0.0.1:58149
+1637087780219	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileFbryIp"
+1637087781672	Marionette	INFO	Stopped listening on port 44351
+1637087789826	geckodriver	INFO	Listening on 127.0.0.1:41297
+1637087789833	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileaI6boo"
+1637087794025	Marionette	INFO	Listening on port 34009
+1637087794060	Marionette	WARN	TLS certificate errors will be ignored for this session
+1637087802857	Marionette	INFO	Stopped listening on port 34009
+1637087811521	geckodriver	INFO	Listening on 127.0.0.1:33211
+1637087811528	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile6ltKOJ"
+1637087815619	Marionette	INFO	Listening on port 36083
+1637087815649	Marionette	WARN	TLS certificate errors will be ignored for this session
+1637087825382	Marionette	INFO	Stopped listening on port 36083
+1637684908092	geckodriver	INFO	Listening on 127.0.0.1:37837
+1637684909130	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilemQp16z"
+1637684916814	Marionette	INFO	Listening on port 39935
+1637684916892	Marionette	WARN	TLS certificate errors will be ignored for this session
+1637684952840	Marionette	INFO	Stopped listening on port 39935
+1638698793423	geckodriver	INFO	Listening on 127.0.0.1:35575
+1638698794428	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileelFLnA"
+1638698810019	Marionette	INFO	Listening on port 46023
+1638698810030	Marionette	WARN	TLS certificate errors will be ignored for this session
+1638698827572	Marionette	ERROR	[20] No reply from Marionette:Register
+1638698831425	Marionette	INFO	Stopped listening on port 46023
+1639237093370	geckodriver	INFO	Listening on 127.0.0.1:41621
+1639237094300	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofiledevUrf"
+1639237112045	Marionette	INFO	Listening on port 42485
+1639237112091	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://www.itat.gov.in/files/admin/js/bootstrap.js, line 37: TypeError: $.browser is undefined
+1639237136756	Marionette	INFO	Stopped listening on port 42485
+1639237362159	geckodriver	INFO	Listening on 127.0.0.1:35237
+1639237362170	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileFTHvbx"
+1639237367602	Marionette	INFO	Listening on port 42353
+1639237367694	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://www.itat.gov.in/files/admin/js/bootstrap.js, line 37: TypeError: $.browser is undefined
+1639237390336	Marionette	INFO	Stopped listening on port 42353
+1639237478194	geckodriver	INFO	Listening on 127.0.0.1:55895
+1639237478204	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile1J1OaI"
+1639237483177	Marionette	INFO	Listening on port 45259
+1639237483225	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://www.itat.gov.in/files/admin/js/bootstrap.js, line 37: TypeError: $.browser is undefined
+1639237504037	Marionette	INFO	Stopped listening on port 45259
+1639237532461	geckodriver	INFO	Listening on 127.0.0.1:59699
+1639237532470	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile3Wr5WJ"
+1639237537624	Marionette	INFO	Listening on port 45391
+1639237537698	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://www.itat.gov.in/files/admin/js/bootstrap.js, line 37: TypeError: $.browser is undefined
+1639237561573	Marionette	INFO	Stopped listening on port 45391
+1639237774393	geckodriver	INFO	Listening on 127.0.0.1:45305
+1639237774402	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilez7T7ya"
+1639237779120	Marionette	INFO	Listening on port 34101
+1639237779144	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://www.itat.gov.in/files/admin/js/bootstrap.js, line 37: TypeError: $.browser is undefined
+1639237800449	Marionette	INFO	Stopped listening on port 34101
+1639237857820	geckodriver	INFO	Listening on 127.0.0.1:43381
+1639237857829	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileNO9dWo"
+1639237862850	Marionette	INFO	Listening on port 43761
+1639237862869	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://www.itat.gov.in/files/admin/js/bootstrap.js, line 37: TypeError: $.browser is undefined
+1639237883094	Marionette	INFO	Stopped listening on port 43761
+1639238047455	geckodriver	INFO	Listening on 127.0.0.1:51607
+1639238047465	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilepZsTGG"
+1639238052912	Marionette	INFO	Listening on port 37535
+1639238053003	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://www.itat.gov.in/files/admin/js/bootstrap.js, line 37: TypeError: $.browser is undefined
+1639238079739	Marionette	INFO	Stopped listening on port 37535
+1639238268694	geckodriver	INFO	Listening on 127.0.0.1:42913
+1639238268703	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileCfbRFT"
+1639238273570	Marionette	INFO	Listening on port 45139
+1639238273655	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://www.itat.gov.in/files/admin/js/bootstrap.js, line 37: TypeError: $.browser is undefined
+1639238295946	Marionette	INFO	Stopped listening on port 45139
+1639238606187	geckodriver	INFO	Listening on 127.0.0.1:42999
+1639238606198	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileZWUkDK"
+1639238611417	Marionette	INFO	Listening on port 41201
+1639238611435	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://www.itat.gov.in/files/admin/js/bootstrap.js, line 37: TypeError: $.browser is undefined
+1639238639613	Marionette	INFO	Stopped listening on port 41201
+1639238672445	geckodriver	INFO	Listening on 127.0.0.1:52311
+1639238672455	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileYLrRk2"
+1639238677495	Marionette	INFO	Listening on port 45785
+1639238677583	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://www.itat.gov.in/files/admin/js/bootstrap.js, line 37: TypeError: $.browser is undefined
+1639238709148	Marionette	INFO	Stopped listening on port 45785
+1639238806918	geckodriver	INFO	Listening on 127.0.0.1:40557
+1639238806928	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilevcER5s"
+
+(firefox-esr:8813): Gtk-WARNING **: 21:36:46.955: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:8929): Gtk-WARNING **: 21:36:50.484: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:8950): Gtk-WARNING **: 21:36:50.914: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1639238813873	Marionette	INFO	Listening on port 38457
+1639238813984	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:9123): Gtk-WARNING **: 21:36:54.730: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://www.itat.gov.in/files/admin/js/bootstrap.js, line 37: TypeError: $.browser is undefined
+1639238836285	Marionette	INFO	Stopped listening on port 38457
+1639239038391	geckodriver	INFO	Listening on 127.0.0.1:33405
+1639239038398	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilefkEQyy"
+
+(firefox-esr:9508): Gtk-WARNING **: 21:40:38.430: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:9615): Gtk-WARNING **: 21:40:41.513: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:9636): Gtk-WARNING **: 21:40:41.857: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1639239044442	Marionette	INFO	Listening on port 42061
+1639239044543	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:9752): Gtk-WARNING **: 21:40:45.235: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://www.itat.gov.in/files/admin/js/bootstrap.js, line 37: TypeError: $.browser is undefined
+1639239061415	Marionette	INFO	Stopped listening on port 42061
+1639239091320	geckodriver	INFO	Listening on 127.0.0.1:41567
+1639239091327	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilebYbbHz"
+
+(firefox-esr:9944): Gtk-WARNING **: 21:41:31.361: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:10052): Gtk-WARNING **: 21:41:34.189: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:10075): Gtk-WARNING **: 21:41:34.515: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1639239096884	Marionette	INFO	Listening on port 40535
+1639239096977	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:10179): Gtk-WARNING **: 21:41:37.792: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: https://www.itat.gov.in/files/admin/js/bootstrap.js, line 37: TypeError: $.browser is undefined
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.get@chrome://marionette/content/driver.js:1165:3
+
+
+(/usr/lib/firefox-esr/firefox-esr:10274): Gtk-WARNING **: 21:41:54.444: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1639239115804	Marionette	ERROR	[20] No reply from Marionette:Register
+1639239121422	Marionette	INFO	Stopped listening on port 40535
+1639239128049	geckodriver	INFO	Listening on 127.0.0.1:59431
+1639239128057	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileBEoJuq"
+
+(firefox-esr:10392): Gtk-WARNING **: 21:42:08.087: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:10519): Gtk-WARNING **: 21:42:11.019: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:10541): Gtk-WARNING **: 21:42:11.347: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1639239133511	Marionette	INFO	Listening on port 37141
+1639239133585	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:10641): Gtk-WARNING **: 21:42:14.408: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://www.itat.gov.in/files/admin/js/bootstrap.js, line 37: TypeError: $.browser is undefined
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+
+(/usr/lib/firefox-esr/firefox-esr:10851): Gtk-WARNING **: 21:43:47.693: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1639239238083	Marionette	INFO	Stopped listening on port 37141
+1639239600069	geckodriver	INFO	Listening on 127.0.0.1:47641
+1639239600079	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilefY3SaY"
+
+(firefox-esr:11425): Gtk-WARNING **: 21:50:00.111: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:11530): Gtk-WARNING **: 21:50:02.564: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:11551): Gtk-WARNING **: 21:50:02.859: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1639239603828	Marionette	INFO	Listening on port 40465
+1639239603972	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:11643): Gtk-WARNING **: 21:50:05.910: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://www.itat.gov.in/files/admin/js/bootstrap.js, line 37: TypeError: $.browser is undefined
+1639239680041	Marionette	INFO	Stopped listening on port 40465
+1639239683524	geckodriver	INFO	Listening on 127.0.0.1:55305
+1639239683531	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileKhLXyt"
+
+(firefox-esr:11926): Gtk-WARNING **: 21:51:23.560: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:12032): Gtk-WARNING **: 21:51:25.952: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:12065): Gtk-WARNING **: 21:51:26.232: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1639239687977	Marionette	INFO	Listening on port 43531
+1639239688057	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:12165): Gtk-WARNING **: 21:51:28.875: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://www.itat.gov.in/files/admin/js/bootstrap.js, line 37: TypeError: $.browser is undefined
+1639239702547	Marionette	INFO	Stopped listening on port 43531
+1639240073271	geckodriver	INFO	Listening on 127.0.0.1:37427
+1639240073279	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile3U3UJs"
+
+(firefox-esr:12912): Gtk-WARNING **: 21:57:53.305: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:12994): Gtk-WARNING **: 21:57:55.675: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:13015): Gtk-WARNING **: 21:57:55.952: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1639240077547	Marionette	INFO	Listening on port 37311
+1639240077598	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:13107): Gtk-WARNING **: 21:57:58.476: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1639240090414	geckodriver	INFO	Listening on 127.0.0.1:60417
+1639240090421	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile9kwItN"
+
+(firefox-esr:13157): Gtk-WARNING **: 21:58:10.447: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:13237): Gtk-WARNING **: 21:58:12.840: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:13258): Gtk-WARNING **: 21:58:13.107: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1639240094959	Marionette	INFO	Listening on port 41061
+1639240095044	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:13349): Gtk-WARNING **: 21:58:15.885: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1639240115781	geckodriver	INFO	Listening on 127.0.0.1:52137
+1639240115788	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile0cp15k"
+1639240120496	Marionette	INFO	Listening on port 40813
+1639240120514	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://www.itat.gov.in/files/admin/js/bootstrap.js, line 37: TypeError: $.browser is undefined
+1639240141292	Marionette	INFO	Stopped listening on port 40813
+1639240164923	geckodriver	INFO	Listening on 127.0.0.1:33835
+1639240164930	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileedAduN"
+1639240169320	Marionette	INFO	Listening on port 46831
+1639240169403	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://www.itat.gov.in/files/admin/js/bootstrap.js, line 37: TypeError: $.browser is undefined
+1639240183271	Marionette	INFO	Stopped listening on port 46831
+1639299049236	geckodriver	INFO	Listening on 127.0.0.1:41441
+1639299050240	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileVGTYBB"
+1639299056282	Marionette	INFO	Listening on port 39167
+1639299056377	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 288: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://www.itat.gov.in/files/admin/js/bootstrap.js, line 37: TypeError: $.browser is undefined
+1639299105220	Marionette	INFO	Stopped listening on port 39167
+1639299119653	geckodriver	INFO	Listening on 127.0.0.1:53563
+1639299119660	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileZRr9Lz"
+1639299124137	Marionette	INFO	Listening on port 40233
+1639299124192	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://www.itat.gov.in/files/admin/js/bootstrap.js, line 37: TypeError: $.browser is undefined
+1639299164474	Marionette	INFO	Stopped listening on port 40233
+1639299347367	geckodriver	INFO	Listening on 127.0.0.1:34707
+1639299347377	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileACApfP"
+1639299351571	Marionette	INFO	Listening on port 46185
+1639299351597	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://www.itat.gov.in/files/admin/js/bootstrap.js, line 37: TypeError: $.browser is undefined
+1639299389914	Marionette	INFO	Stopped listening on port 46185
